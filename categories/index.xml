@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Rokasgrāmata</title>
+    <link>http://krista-qp.github.io/five/categories/</link>
+    <description>Recent content in Categories on Rokasgrāmata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://krista-qp.github.io/five/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apraksti</title>
+      <link>http://krista-qp.github.io/five/categories/apraksti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://krista-qp.github.io/five/categories/apraksti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piemēri</title>
+      <link>http://krista-qp.github.io/five/categories/piem%C4%93ri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://krista-qp.github.io/five/categories/piem%C4%93ri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

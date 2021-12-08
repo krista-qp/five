@@ -1,0 +1,15 @@
+{
+  "name": "Rokasgrāmata",
+  "short_name": "Rokasgrāmata",
+  "start_url": "/five/",
+  "scope": "/five/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/five/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tēmas on Rokasgrāmata</title>
+    <link>http://krista-qp.github.io/five/docs/kategorijas/</link>
+    <description>Recent content in Tēmas on Rokasgrāmata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://krista-qp.github.io/five/docs/kategorijas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pārtika</title>
+      <link>http://krista-qp.github.io/five/docs/kategorijas/partika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://krista-qp.github.io/five/docs/kategorijas/partika/</guid>
+      <description>Par tēmu#Apraksti#Piemēri#</description>
+    </item>
+    
+    <item>
+      <title>Lauki - Pilsētas</title>
+      <link>http://krista-qp.github.io/five/docs/kategorijas/lauki-pilseta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://krista-qp.github.io/five/docs/kategorijas/lauki-pilseta/</guid>
+      <description>Par tēmu#Apraksti#Piemēri#</description>
+    </item>
+    
+    <item>
+      <title>Digitalizācija</title>
+      <link>http://krista-qp.github.io/five/docs/kategorijas/digitalizacija/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://krista-qp.github.io/five/docs/kategorijas/digitalizacija/</guid>
+      <description>Par tēmu#Apraksti#Piemēri#</description>
+    </item>
+    
+    <item>
+      <title>4 pušu sadarbība</title>
+      <link>http://krista-qp.github.io/five/docs/kategorijas/sadarbiba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://krista-qp.github.io/five/docs/kategorijas/sadarbiba/</guid>
+      <description>Par tēmu#Apraksti#Piemēri#</description>
+    </item>
+    
+  </channel>
+</rss>
